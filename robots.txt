@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boulderplumbingco.com/sitemap.xml
